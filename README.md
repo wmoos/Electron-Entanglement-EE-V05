@@ -16,7 +16,6 @@ EE_V05 introduces refined operator definitions, improved kernel structures, and 
 
 ## Contents
 - **EE_V05_EN.pdf** — Full English version  
-- **EE_V05_EN.tex** — LaTeX source  
 - **Abstract** — Summary of the continuum‑geometric entanglement mechanism  
 - **Glossary** — Definitions of symbols and concepts used throughout the MCM  
 - **Figures** — Vortex‑mode illustrations and coupling geometries  
@@ -27,21 +26,22 @@ EE_V05 introduces refined operator definitions, improved kernel structures, and 
 ## Key Features of EE_V05
 - Refined continuum field formulation  
 - Clear separation of local and nonlocal operators  
-- Non‑separable correlation kernels \(K(x,y)\)  
-- Mixed spectral modes of the correlation operator \(\mathcal{K}_{\Lambda_\Omega}\)  
+- Non-separable correlation kernels: `K(x, y)`  
+- Mixed spectral modes of the correlation operator: `K_LambdaOmega`  
 - Geometric origin of electron entanglement  
-- Predictions beyond standard QM (correlation plateaus, geometry‑dependent coherence, etc.)  
+- Predictions beyond standard QM (correlation plateaus, geometry-dependent coherence, etc.)  
 - Harmonized structure aligned with the MCM document series
 
 ---
 
 ## Changes from EE_V04 to EE_V05
 - Improved mathematical clarity and notation  
-- Expanded main theorem on continuum‑induced entanglement  
-- More precise definition of nonlocal operator \(D_{\mathrm{nl}}\)  
+- Expanded main theorem on continuum-induced entanglement  
+- More precise definition of the nonlocal operator: `D_nl`  
 - Added Abstract and Glossary  
 - Refined Discussion and Conclusion  
 - Updated LaTeX structure and section ordering
+
 
 ---
 
@@ -50,7 +50,7 @@ If you use EE_V05 in scientific work, please cite:
 
 **Walter Moosbrugger (2026). Electron Entanglement (EE), Version V05.  
 Independent Researcher, Wels.  
-Zenodo: 10.5281/zenodo.xxxxxxxx**
+Zenodo: 10.5281/zenodo.22911345**
 
 License: **CC BY 4.0**
 
