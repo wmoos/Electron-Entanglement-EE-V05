@@ -2,10 +2,13 @@
 Part of the Monistic Continuum Model (MCM)
 
 ## Overview
-This repository contains the Version V05 of *Electron Entanglement (EE)*, a core component of the Monistic Continuum Model (MCM).  
+This repository contains Version V05 of *Electron Entanglement (EE)*, a core component of the Monistic Continuum Model (MCM).
+
 EE_V05 develops the continuum‑geometric foundations of electron entanglement and provides a unified description of nonlocal correlations emerging from the continuum substrate.
 
-In contrast to standard quantum mechanics, where entanglement is an algebraic property of tensor‑product Hilbert spaces, the MCM interprets entanglement as a geometric and dynamical feature of a continuous field  
+In contrast to standard quantum mechanics, where entanglement is an algebraic property of tensor‑product Hilbert spaces, the MCM interprets entanglement as a geometric and dynamical feature of a continuous field:
+
+`C : M × ΛΩ → V`
 
 EE_V05 introduces refined operator definitions, improved kernel structures, and a clearer spectral formulation of continuum‑induced entanglement.
 
@@ -61,4 +64,3 @@ Electron Entanglement, Continuum Geometry, Monistic Continuum Model, Nonlocal Op
 ## Author
 **Walter Moosbrugger**  
 Independent Researcher, Wels  
-
