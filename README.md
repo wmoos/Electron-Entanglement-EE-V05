@@ -7,13 +7,6 @@ EE_V05 develops the continuum‑geometric foundations of electron entanglement a
 
 In contrast to standard quantum mechanics, where entanglement is an algebraic property of tensor‑product Hilbert spaces, the MCM interprets entanglement as a geometric and dynamical feature of a continuous field  
 
-
-\[
-C : M \times \Lambda_\Omega \to V.
-\]
-
-
-
 EE_V05 introduces refined operator definitions, improved kernel structures, and a clearer spectral formulation of continuum‑induced entanglement.
 
 ---
